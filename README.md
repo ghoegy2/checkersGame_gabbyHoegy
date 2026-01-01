@@ -6,8 +6,8 @@ Developer:
 
 Description:
 
-This project is a virtual checkers board game that was created using Java. It is runnable using IntelliJ IDEA Community Edition 2024.1.1 (IDE),
-JDK17 (programming language), and Junit 4.12 (testing framework). This game was my semester-long project for my CPSC 2150 class.
+This project is a virtual checkers board game. I made it for my CPSC 2150 class. It is runnable using IntelliJ IDEA Community Edition 2024.1.1
+(IDE), JDK17 (programming language), and Junit 4.12 (testing framework).
 
 -------------------------------------------------
 
